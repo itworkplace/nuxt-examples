@@ -1,3 +1,9 @@
+---
+title: 'page title'
+description: 'page descr'
+keywords: 'page,keywords'
+---
+
 # Welcome to Nuxt Content Starter
 
 This is the main page displaying Markdown located at [content/index.md](https://github.com/larbish/starter/blob/content/content/index.md).
